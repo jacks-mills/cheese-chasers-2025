@@ -1,2 +1,2 @@
-# cheese-chasers-2025
-micromouse 2025
+# Cheese Chasers 2025
+UQ micromouse 2025
